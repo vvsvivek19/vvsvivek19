@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Singh
 - 👀 I’m interested:
--     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React.
+-     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Node.js, MongoDB etc. 
 -     Core programming languages: C, C++
 -     Core IT skills: Networking, Linux, OS basics etc. 
 - 🌱 I’m currently learning Front End Development and Core IT skills via Coursera, YouTube and other open free sources like FCC.
