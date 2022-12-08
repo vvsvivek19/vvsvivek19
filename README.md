@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Vivek Singh
-- 👀 I’m interested:
+- I am a BCA graduate and currently pursuing MCA.
+- 👀 I’m interested in:
 -     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Node.js, MongoDB etc. 
 -     Core programming languages: C, C++
 -     Core IT skills: Networking, Linux, OS basics etc. 
