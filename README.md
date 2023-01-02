@@ -3,7 +3,8 @@
 - 👀 I’m interested in:
 -     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Node.js, MongoDB etc. 
 -     Core programming languages: C, C++
--     Core IT skills: Networking, Linux, OS basics etc. 
+-     Database Engineering: MySQL, Python, Django
+-     Core IT skills: Git, Gitbash, GitHub, UNIX Commands, Linux, Networking, OS basics etc. 
 - 🌱 I’m currently learning Front End Development and Core IT skills via Coursera, YouTube and other open free sources like FCC.
 - 📫 Get in touch with me https://www.linkedin.com/in/vvsvivek/
 
