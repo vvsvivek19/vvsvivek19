@@ -5,7 +5,7 @@
 -     Core programming languages: C, C++
 -     Database Engineering: MySQL, Python, Django
 -     Core IT skills: Git, Gitbash, GitHub, UNIX Commands, Linux, Networking, OS basics etc. 
-- 🌱 I’m currently learning Front End Development and Core IT skills via Coursera, YouTube and other open free sources like FCC.
+- 🌱 I’m currently learning Front End Development, Database Engineering and Core IT skils from Coursera, YouTube and other open free sources like FCC.
 - 📫 Get in touch with me https://www.linkedin.com/in/vvsvivek/
 
 <!---
