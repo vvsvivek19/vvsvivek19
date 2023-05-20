@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Vivek Singh
-- I am a BCA graduate and currently pursuing MCA.
+- I am a BCA graduate and currently pursuing MCA. 
+- Currently working as a Database Administrator 
 - 👀 I’m interested in:
 -     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Node.js, MongoDB etc. 
 -     Core programming languages: C, C++
