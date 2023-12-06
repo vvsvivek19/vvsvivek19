@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Vivek Singh
 - I am a BCA graduate and currently pursuing MCA. 
-- Currently working as a Database Administrator 
+- Currently working as a Cloud DBA 
 - 👀 I’m interested in:
--     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Node.js, MongoDB etc. 
+-     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Python, Django and MySQL
 -     Core programming languages: C, C++
--     Database Engineering: MySQL, Python, Django
--     Core IT skills: Git, Gitbash, GitHub, UNIX Commands, Linux, Networking, OS basics etc. 
-- 🌱 I’m currently learning Front End Development, Database Engineering and Core IT skils from Coursera, YouTube and other open free sources like FCC.
+-     RDBMS: MS-SQL Server, MySQL 
+- 🌱 I’m currently learning Web development from various online resources along side with my job.
 - 📫 Get in touch with me https://www.linkedin.com/in/vvsvivek/
 
 <!---
