@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Vivek Singh
-- Currently working as a Cloud DBA
-- I am a BCA graduate and currently pursuing MCA. 
+- Cloud Database Administrator by profession
+- BCA, MCA (Pursuing) 
 - 👀 I’m interested in:
--     Web Development technologies: HTML, CSS, JavaScript, BootStrap, React, Python, Django and MySQL
--     Core programming languages: C, C++
--     RDBMS: MS-SQL Server, MySQL 
-- 🌱 I’m currently learning Web development from various online resources along side with my job.
+-     Programming Languages: C, C++ and Python
+-     Front-End Languages: HTML, CSS and BootStrap
+-     Back-End Frameworks: Django
+-     RDBMS: MS-SQL Server, MySQL
 - 📫 Get in touch with me https://www.linkedin.com/in/vvsvivek/
 
 <!---
